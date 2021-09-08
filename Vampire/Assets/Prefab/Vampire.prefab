@@ -139,10 +139,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 551fe09568c24fa478feb0a914644d5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 3
+  speed: 2.5
   JumpForce: 10
+  health: 0
+  invunerable: 1
   isJumping: 0
   doubleJump: 0
+  bulletSpawn: {fileID: 0}
+  bulletObject: {fileID: 0}
+  fireRate: 0
+  nextFire: 0
+  isAlive: 0
 --- !u!61 &8687247684673142935
 BoxCollider2D:
   m_ObjectHideFlags: 0

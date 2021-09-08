@@ -9,7 +9,7 @@ public class Blood : MonoBehaviour
     private CircleCollider2D circle;
 
     public GameObject smoke;
-   // public int Score;
+    private int Score = 1;
 
     
     void Start()
@@ -28,8 +28,8 @@ public class Blood : MonoBehaviour
             circle.enabled = false;
             smoke.SetActive(true);
 
-           // GameController.instance.totalScore += Score;
-           // GameController.instance.UpdateScoreText();
+           Controller.instance.totalScore += Score;
+           Controller.instance.UpdateScoreText();
             
             Destroy(gameObject, 0.5f);
         }
