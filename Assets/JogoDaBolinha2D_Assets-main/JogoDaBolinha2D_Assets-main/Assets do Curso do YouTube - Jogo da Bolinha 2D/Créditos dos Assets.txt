@@ -1,0 +1,16 @@
+Créditos dos Assets usados no curso do "Jogo da Bolinha 2D", do canal Desenvolvendo Jogos!
+
+
+GRÁFICOS
+
+- Rolling Ball Assets - Kenney (https://www.kenney.nl/assets/rolling-ball-assets)
+
+
+MÚSICA E EFEITO SONORO
+
+- Música de Fundo [Gravity] - chasersgaming (https://opengameart.org/content/gravity)
+
+- Som da Chave [Coin Pickup] - Phenala (https://freesound.org/people/Phenala/sounds/478647/)
+
+
+Link do Canal no YouTube: https://www.youtube.com/c/DesenvolvendoJogos
